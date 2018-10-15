@@ -1,2 +1,6 @@
+
 PRINT('HELLO WORLD');
 PRINT ('HELLO EVERYBODY');
+print ('hello');
+print ('hello my friend');
+print ('glad to see u');
